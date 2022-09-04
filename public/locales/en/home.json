@@ -1,0 +1,8 @@
+{
+  "title": "Home page",
+  "description": "This is the home page",
+  "contactLink": "Go to Contact",
+  "unreadMessages_zero": "You have no unread messages",
+  "unreadMessages_one": "You have one unread message",
+  "unreadMessages_other": "You have {{count}} unread messages"
+}

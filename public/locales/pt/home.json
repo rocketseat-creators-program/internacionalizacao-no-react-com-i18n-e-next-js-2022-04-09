@@ -1,0 +1,8 @@
+{
+  "title": "Página inicial",
+  "description": "Essa é a página inicial",
+  "contactLink": "Ir para Contato",
+  "unreadMessages_zero": "Ohrayy você leu tudo",
+  "unreadMessages_one": "Você tem uma mensagem não lida",
+  "unreadMessages_other": "Você tem {{count}} mensagens não lidas"
+}
